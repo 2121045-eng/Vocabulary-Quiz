@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1iK-CoG9pdSSr_XYsW1Z5yWP3VSh43DzY
 """
 
-import gradio as gr
+import streamlit as st
 import json
 import os
 
